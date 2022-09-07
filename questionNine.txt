@@ -1,0 +1,2 @@
+Q)Name the keywords, used as data in the Python script.
+A)True, False None
